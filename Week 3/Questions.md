@@ -11,7 +11,7 @@
 
 ### Home Assignment Questions:
 
-5. a. Write an ALP using ARM7TDMI  to perform Convolution using MUL  instruction (Addition of multiplication of respective numbers of loc A and loc B).<br>
-   b. Write an ALP using ARM7TDMI to perform Convolution using MLA instruction (Addition of multiplication of respective numbers of loc A and loc B).
+5. a. Write an ALP using ARM7TDMI  to perform Convolution using MUL  instruction <br>(Addition of multiplication of respective numbers of loc A and loc B).<br>
+   b. Write an ALP using ARM7TDMI to perform Convolution using MLA instruction <br>(Addition of multiplication of respective numbers of loc A and loc B).
 
 6. Write an ALP using ARM7TDMI to find the sum of all the BCD digits of a given 32-bit number. (hint:788 =7+8+8)
