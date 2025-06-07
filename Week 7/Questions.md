@@ -6,8 +6,8 @@ Find hit rate and miss rate.
 2. Use PARACACHE SIMULATOR for the exercise for the following configuration. Consider a direct mapped cache of size 16 KB with block size 256 bytes. The size of main memory is 128 KB. Find Number of bits in tag. Randomly generate 10 addresses and find hit rate and miss rate.
 
 3. Use PARACACHE SIMULATOR for the exercise for the following configuration. A computer system uses 16-bit memory addresses. It has a 2K-byte cache organized in a direct-mapped manner with 64 bytes per cache block. Assume that the size of each memory word is 1 byte.<br>
-(a) Calculate the number of bits in each of the Tag, Block, and Word fields of the memory address.<br>
-(b) When a program is executed, the processor reads data sequentially from the following word addresses: 128, 144, 2176, 2180, 128, 2176
+a. Calculate the number of bits in each of the Tag, Block, and Word fields of the memory address.<br>
+b. When a program is executed, the processor reads data sequentially from the following word addresses: 128, 144, 2176, 2180, 128, 2176
 All the above addresses are shown in decimal values. Assume that the cache is initially empty. For each of the above addresses, indicate whether the cache access will result in a hit or a miss.<br>
 Note: Convert the given decimal values to hexadecimal before executing on paracache.
 
@@ -19,10 +19,10 @@ Randomly generate 10 addresses and find hit rate and miss rate.
 Clearly label data that is replaced in cache lines
 Show the cache memory table and filled data in the cache lines of block size 1 byte. The cache is mapped as Direct Mapped.
 
-6. Use PARACACHE SIMULATOR for the exercise for the following configuration. Consider a fully associative mapped cache of size 16 KB with block size 256 bytes. The size of main memory is 128 KB. Find number of tag bits. 
-a)Use LRU replacement policy calculate the hit ratio and miss ratio for the following sequence: 
+6. Use PARACACHE SIMULATOR for the exercise for the following configuration. Consider a fully associative mapped cache of size 16 KB with block size 256 bytes. The size of main memory is 128 KB. Find number of tag bits.<br> 
+a. Use LRU replacement policy calculate the hit ratio and miss ratio for the following sequence: 
 0,1,2,3,4,5,6,7,0,1,2,8,10,15,15,12 
-b)Use FIFO replacement policy calculate the hit ratio and miss ratio for the following sequence: 
+<br>b. Use FIFO replacement policy calculate the hit ratio and miss ratio for the following sequence: 
 0,1,2,3,4,5,6,7,0,1,2,8,10,15,15,12 
 
 7. Use PARACACHE SIMULATOR for the exercise for the following configuration. Consider the following cache design: main memory having 
