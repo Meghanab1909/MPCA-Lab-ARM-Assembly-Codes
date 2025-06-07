@@ -1,5 +1,5 @@
 .data
-  str: .asciz "N Rakshitha - PES2UG23CS356"
+  str: .asciz "Name - SRN"
   num: .word 1
 
 .text
